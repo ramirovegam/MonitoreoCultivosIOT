@@ -24,7 +24,7 @@ Proyecto desarrollado con **Arduino** y **Python** para monitorear en tiempo rea
 
 ### Interfaz Principal
 
-LINK_DE_TU_IMAGEN
+<img src="funcionamiento.jpg" width="700">
 
 ## 📋 Funcionamiento
 
